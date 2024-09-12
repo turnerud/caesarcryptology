@@ -9,18 +9,7 @@ EncodeCaesar done
 DecodeCaesarShift done 
 DecodeCaesar done 
 
-Take plain text and cipher text as a parameter.
-
-Print both
-Cipher each list
-See if cipher text matches plain text. If not,shift a letter
-run the guess, see if it matches 
-
-Return the plain text 'guess'
-
-
-
-
+Explanations of these functions on README.md
 """
 
 plainText = "Hi my name is Simon";
