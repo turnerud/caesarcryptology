@@ -142,10 +142,9 @@ def DecodeCaesar(plainText, codeText):
         
     return decodedCipher;
 
-"""
+
 EncodeCaesar();
 DecodeCaesarShift();
-"""
 DecodeCaesar(plainText, codeText);
 
 
